@@ -1,0 +1,19 @@
+{
+  "Login": "Войти",
+  "YouAreLoggedIn": "Вы вошли!",
+  "LoginTitle": "Вход",
+  "Register": "Зарегистрироваться",
+  "YouAreRegistered": "Вы были зарегистрированы успешно!",
+  "RegisterTitle": "Регистрация",
+  "NoAccount": "Нет аккаунта?",
+  "HaveAnAccount": "Есть аккаунт?",
+  "Password": "Пароль",
+  "Username": "Логин",
+  "Firstname": "Имя",
+  "Lastname": "Фамилия",
+  "Email": "Email",
+  "City": "Город",
+  "Street": "Улица",
+  "PhoneNumber": "Номер телефона",
+  "Zipcode": "Почтовый индекс"
+}

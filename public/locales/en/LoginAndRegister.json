@@ -1,0 +1,19 @@
+{
+  "Login": "Login",
+  "YouAreLoggedIn": "You are in!",
+  "LoginTitle": "Login",
+  "Register": "Register",
+  "YouAreRegistered": "You were registered successfully!",
+  "RegisterTitle": "Register",
+  "NoAccount": "No account?",
+  "HaveAnAccount": "Have an account?",
+  "Password": "Password",
+  "Email": "Email",
+  "Username": "Username",
+  "Firstname": "Firstname",
+  "Lastname": "Lastname",
+  "City": "City",
+  "Street": "Street",
+  "PhoneNumber": "Phone number",
+  "Zipcode": "Zipcode"
+}

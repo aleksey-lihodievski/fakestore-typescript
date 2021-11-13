@@ -1,0 +1,19 @@
+{
+  "AdminPanel": "Admin Panel",
+  "Add": "Add",
+  "Edit": "Edit",
+  "Delete": "Delete",
+  "EditProduct": "Edit product",
+  "AddProduct": "Add product",
+  "ChangeProduct": "Change product",
+  "Title": "Title",
+  "Price": "Price",
+  "Description": "Description",
+  "Category": "Category",
+  "AreYouSure": "Are you sure?",
+  "Yes": "Yes",
+  "Change": "Change",
+  "Deleted": "Deleted successfully!",
+  "Changed": "Changed successfully!",
+  "Added": "Added successfully!"
+}
